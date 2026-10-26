@@ -1,4 +1,6 @@
 ### CRSE-CORRECTED LME ANALYSES (Robust Standard Errors) ###
+### NOTE: This should be a continuation from the Standard LME Analyses. 
+## Ensure the standard LME analyses were run in the previous script first before coming here!
 # ---------------------------------------------------------
 # If standard LME model residuals STILL show heteroscedasticity, you can keep the LME model 
 # exactly as it is, but calculate "Robust Standard Errors". 
