@@ -2,7 +2,7 @@
 
 #load packages to read .sav file (SPSS file)
 library(tidyverse)
-#a conflict command will come up. load the "devtools" package "install.packages("devtools")", then load commands 4-7
+#a conflict command will come up. load the "devtools" package "install.packages("devtools")"
 library(conflicted)
 library(dplyr)
 conflicts_prefer(dplyr::filter())
