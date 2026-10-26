@@ -1,4 +1,5 @@
 # R Script for standard LME Analysis: Model Diagnostic Checks
+# NOTE: Ensure that you have already run the LME model in the previous script - the current script is about  diagnostic checks on the LME model.
 
 #load packages to read .sav file (SPSS file)
 library(tidyverse)
